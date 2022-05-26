@@ -1,0 +1,6 @@
+mkdir 폴더명 = 폴더 생성
+cd 폴더경로 = 폴더경로로 이동
+git init = Git 저장소를 초기화
+git status = 업로드상태보기
+ls = 폴더 안에 있는 모든 파일 보기
+git add = 업로드
